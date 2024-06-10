@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GearNB Shop PC\\source\\repos\\Baitap05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619AE7F9-38D6-4E01-BDDB-50BAB7AC20E9}|Bai25\\Bai25.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitap05\\bai25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619AE7F9-38D6-4E01-BDDB-50BAB7AC20E9}|Bai25\\Bai25.csproj|solutionrelative:bai25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\Baitap05\\Bai25\\Program.cs",
+              "RelativeDocumentMoniker": "Bai25\\Program.cs",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\Baitap05\\Bai25\\Program.cs",
+              "RelativeToolTip": "Bai25\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswEcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:58:44.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
